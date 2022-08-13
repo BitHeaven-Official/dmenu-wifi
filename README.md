@@ -1,7 +1,11 @@
 # dmenu-wifi
 
-## install
+### requirements
+```networkmanager-cli```
+```networkmanager-wifi```
+
+### install
 ```make install```
 
-## uninstall
+### uninstall
 ```make uninstall```
