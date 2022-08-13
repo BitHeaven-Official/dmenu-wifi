@@ -12,7 +12,7 @@ make install
 ```
 make `nmcli` nopasswd
 ```
-echo "USER ALL=(ALL:ALL) NOPASSWD: /usr/bin/nmcli" >> /etc/sudoers
+echo "ALL ALL=(ALL:ALL) NOPASSWD: /usr/bin/nmcli" >> /etc/sudoers
 ```
 
 
