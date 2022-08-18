@@ -20,3 +20,9 @@ echo "ALL ALL=(ALL:ALL) NOPASSWD: /usr/bin/nmcli" >> /etc/sudoers
 ```
 make uninstall
 ```
+
+
+### usage
+```
+wifi
+```
